@@ -11,3 +11,6 @@ This is README.
 1. tuesday
 1. wednesday
 1. thursday
+
+## Part3
+- item3
